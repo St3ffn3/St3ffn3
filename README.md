@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Stephan 👋
+Embedded Systems Engineer by profession, lifelong electronics and code tinkerer by nature. I grew up soldering LEDs, taking apart VCRs, and writing QBasic and C++ — and today I spend my time working with microcontrollers, bus systems, and hardware across all voltage levels.
 
+- 🔭 I’m currently working on improving my universal home automation actuator and some scripts for deploying a small home server.
+- 🌱 I’m currently learning how to use AI as a complementary tool for software and hardware development.
+- 💬 Ask me about anything.
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/stephan-segieth-dev/).
+- ⚡ Fun fact: A hobby project is never quite ready to finally end up publicly on GitHub.
+
+
+<sub>*Dedicated to my dad, who started it all.*</sub>
 <!--
 **St3ffn3/St3ffn3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
